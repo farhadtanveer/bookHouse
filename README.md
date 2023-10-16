@@ -4,7 +4,7 @@ A simple React app built with React & React Router Dom.
 
 ## Live Link
 
-Hosted in Netlify -> [bookHouse](https://next-page.netlify.app/)
+Hosted in Netlify -> [bookHouse](https://programming-book-house.netlify.app/)
 
 ## API
 
